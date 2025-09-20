@@ -3,26 +3,26 @@
 const partsData = [
     {
         id: 'part1',
-        name: 'الجزء الأول',
+        name: 'البارت الاول ',
         size: '500 MB',
         url: 'https://example.com/file1.zip'
     },
     {
         id: 'part2',
-        name: 'الجزء الثاني',
-        size: '450 MB',
+        name: 'البارت الثاني',
+        size: '500 MB',
         url: 'https://example.com/file2.zip'
     },
     {
         id: 'part3',
-        name: 'الجزء الثالث',
-        size: '380 MB',
+        name: 'البارت الثالث',
+        size: '400 MB',
         url: 'https://example.com/file3.zip'
     },
     {
         id: 'part4',
         name: 'الجزء الرابع',
-        size: '420 MB',
+        size: '500 MB',
         url: 'https://example.com/file4.zip'
     },
     {
